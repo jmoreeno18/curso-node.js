@@ -1,0 +1,12 @@
+# Ignora dependencias
+node_modules/
+
+# Ignora archivos temporales
+*.log
+*.cache
+.vscode/
+.DS_Store
+
+# Ignora archivos generados por herramientas
+*.eslintcache
+*.tsbuildinfo

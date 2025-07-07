@@ -1,0 +1,28 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmoreeno18/curso-node.js.git"
+  },
+  "keywords": [],
+  "author": "Javier Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmoreeno18/curso-node.js/issues"
+  },
+  "homepage": "https://github.com/jmoreeno18/curso-node.js#readme",
+  "description": "",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
